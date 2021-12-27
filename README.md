@@ -58,7 +58,7 @@ Choose a request by pressing the REPLY button.
 &nbsp;  
 
 ---
-### Investigating Complaints and requests
+### Investigate Complaints and requests
 ---
 
 #### Database Search
@@ -120,7 +120,7 @@ The beta version only allows users to change password. Other options such as tel
 &nbsp;  
 
 
-#### Changing Password
+#### Change Password
 
 The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
 The logged in user can change password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password. No email is required in this test version. Usually, the government employee will enter email and personal data registered at the time of hiring.
@@ -129,7 +129,7 @@ The logged in user can change password by confirming the username and entering a
 &nbsp;  
 
 ---
-### Contact and Reporting a Bug
+### Contact and Report a Bug
 ---
 <img src="images/contact.png" width="300" />
 
