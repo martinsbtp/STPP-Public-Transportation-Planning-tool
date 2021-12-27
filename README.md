@@ -61,24 +61,36 @@ Choose a request by pressing the REPLY button.
 ### Investigating Complaints and requests
 ---
 
-emsp#### Database Search
+#### Database Search
 From the side menu, press the **Search Database** link to search for previous cases and solutions.
 <img src="images/searchdatabase.png" width="600" />
 
 Search by keyword, bus line code or name, subway station name or any other keyword.
+&nbsp;  
 
-emsp#### Map Search
-Choose **Maps and Directions** from the side menu
+&nbsp;  
+
+
+#### Map Search
 <img src="images/searchmap.png" width="600" />
+Choose **Maps and Directions** from the side menu
 
 Search for bus itineraries on google maps, origin and destination directions, search for addresses, neighborhoods, bus terminals or subway stations to find a solution to the problem.
+&nbsp;  
 
-emsp#### Legislation 
+&nbsp;  
+
+
+#### Legislation 
 On the side menu, press Legislation to open files in pdf format with the current laws that rule the public transport system.
 You will find the operation manual, the regulation of the integration system and the cities that are part of the Transport Consortium.
 
 emsp#### Discussion Forum and Chatroom
 Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach an agreement on changes to the transport system more quickly.
+&nbsp;  
+
+&nbsp;  
+
 
 ---
 ### Reply to Request/Complaint 
