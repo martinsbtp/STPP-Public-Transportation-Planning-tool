@@ -145,7 +145,7 @@ Use a confirmation screen to review the request and solution or instruct the cit
 ---
 ### Settings
 ---
-<img src="images/settingss.png" width="600"/>
+<img src="images/settings.png" width="600"/>
 
 #### Change Password
 
