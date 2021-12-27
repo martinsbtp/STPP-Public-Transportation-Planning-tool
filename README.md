@@ -8,7 +8,7 @@ Browse through the homepage, register, log in and begin proposing solutions.
 
 <img src="images/quickguide2.jpeg"  />
 
-Click on the **Quick Guide** link at the top left of the screen and view the steps to complete an action request submitted by a public transport user.
+Click on the **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.
 
 
 ## Inside User Interface Area - Logged In
