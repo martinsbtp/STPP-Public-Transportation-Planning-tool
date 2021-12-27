@@ -44,7 +44,7 @@ From the side menu, press the Search Database link to search for similar request
 
 Choose Maps and Directions from the side menu and search for bus itineraries on google maps, specifying origin and destination, search for addresses, neighborhoods, bus terminals or subway stations to understand the operation of the line reported in the claim.
 
-<img src="images/searchmaps.png" width="800" />
+<img src="images/searchmap.png" width="800" />
 
 On the side menu, press Legislation to open files in pdf format with the current laws that govern the public transport system in the metropolitan region of Recife. You will find the operation manual of the bus lines, the regulation of the integration system and the municipal laws of the cities that are part of the Metropolitan Transport Consortium.
 
@@ -62,7 +62,7 @@ A confirmation will be requested, giving the analyst the opportunity to review t
 
 The beta version only allows the user to change their own password. Other options such as telephone number, email and additional information about the position and institution linked to public transport are restricted to public officials in the transport sector in the region. Map and database option settings will be implemented in future releases.
 
-<img src="images/settings.png" width="1000" />
+<img src="images/settings.png" />
 
 ### Changing Password
 
