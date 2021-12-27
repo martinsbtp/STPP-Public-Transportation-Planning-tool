@@ -14,27 +14,35 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
-2 - Find out if requests or complaints are valid. Use maps, database search and legislation consultation to understand the requirements and conditions in the transport system operation.
+2 - Find out if requests or complaints are valid. Use maps, database search and legal consultation to explain the operation of the line mentioned in the request.
 
-3 - If the case calls for a faster and more economical way of getting around, look for the best route within the bus/metro integration system and send the proposal. If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
+
+3 - if the requested itinerary does not exist, explain the reasons or propose a solution.
+
+4 -  If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
 
 ### Sending a Complaint or request
 
-The beta version has some examples of requesting public transport arrangements. For this trial version it will be possible to send complaints and requests to your inbox. Generally, the ombudsman sends the requests. In this test version, the center will not send emails, as this feature is only available in the official version for public analysts in the transport sector in the city of Recife.
-
-From the side menu, press SEND COMPLAINT to open the request/complaint form. The registered request will go to your inbox.
-
 <img src="images/sendcomplaint.png"  />
+
+Some sample complaints and requests are available for testing.
+
+For this trial version it will be possible to send complaints and requests to your own inbox. 
+
+Ombudsman messages are available in official version for transport sector analysts.
+
+From the side menu, press **SEND COMPLAINT** to open request/complaint form.
+
 
 ### Openning a Complaint or request
 
+<img src="images/inbox.png"  />
 Select INBOX on the side menu and access requests and complaints
 
-<img src="images/inbox.png"  />
 
-Choose an action request by pressing the REPLY button. Please read the request carefully.
-
+Choose a request by pressing the REPLY button. Read the request carefully.
 <img src="images/reply.png" width="800" />
+
 
 ### Investigating Complaints and requests
 
