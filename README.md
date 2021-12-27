@@ -29,7 +29,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 &nbsp;  
 
 ---
-#### Sending a Complaint or request
+#### Sending a Complaint or Request
 ---
 <img src="images/sendcomplaint.png" width="600" />
 
@@ -40,11 +40,12 @@ Some sample complaints and requests are available for testing.
 For this trial version it will be possible to send complaints and requests to your own inbox. 
 
 Ombudsman messages are available in official version for transport sector analysts.  
-&nbsp     
+&nbsp;  
 
+&nbsp;  
 
 ----
-#### Openning a Complaint or request
+#### Openning a Complaint or Request
 ---
 <img src="images/inbox.png" width="600" />
 
@@ -52,29 +53,31 @@ Select INBOX on the side menu and access requests and complaints
 Choose a request by pressing the REPLY button.
 
 **Read the request carefully.**
+&nbsp;  
 
+&nbsp;  
 
 ---
 ### Investigating Complaints and requests
 ---
 
-#### Database Search
+emsp#### Database Search
 From the side menu, press the **Search Database** link to search for previous cases and solutions.
-<img src="images/searchdatabase.png" width="800" />
+<img src="images/searchdatabase.png" width="600" />
 
 Search by keyword, bus line code or name, subway station name or any other keyword.
 
-#### Map Search
+emsp#### Map Search
 Choose **Maps and Directions** from the side menu
-<img src="images/searchmap.png" width="800" />
+<img src="images/searchmap.png" width="600" />
 
 Search for bus itineraries on google maps, origin and destination directions, search for addresses, neighborhoods, bus terminals or subway stations to find a solution to the problem.
 
-#### Legislation 
+emsp#### Legislation 
 On the side menu, press Legislation to open files in pdf format with the current laws that rule the public transport system.
 You will find the operation manual, the regulation of the integration system and the cities that are part of the Transport Consortium.
 
-#### Discussion Forum and Chatroom
+emsp#### Discussion Forum and Chatroom
 Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach an agreement on changes to the transport system more quickly.
 
 ---
