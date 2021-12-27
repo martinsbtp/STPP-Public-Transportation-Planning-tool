@@ -73,7 +73,7 @@ A confirmation will be requested, giving the analyst the opportunity to review t
 
 ## Settings
 ---
-<img src="images/settings.png" />
+<img src="images/settings.png" width="800"/>
 
 The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
 
@@ -88,7 +88,7 @@ The logged in user can change password by confirming the username and entering a
 We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
 The contact form uses gmail to send messages. No name or email required to get in touch. Just send subject and message.
 
-<img src="images/contact.png" width="1000" />
+<img src="images/contact.png" width="300" />
 
 
 ## Limitations
