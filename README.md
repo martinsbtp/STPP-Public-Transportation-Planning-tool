@@ -44,13 +44,13 @@ Explore the options:
 &nbsp;  
 
 ---
-#### Sending a Complaint or Request
+#### Send Complaints and Requests
 ---
 <img src="images/sendcomplaint.png" width="600" />
   
 From the side menu, press Send Complaint link to open request/complaint form.
 
-For this trial version, it will be possible to send complaints and requests to your own inbox.
+For this trial version, it will be possible to send complaints and requests to your own inbox. 
 
 Ombudsman Central messages are available only for transport sector analysts. 
 &nbsp;  
@@ -63,7 +63,7 @@ Ombudsman Central messages are available only for transport sector analysts.
 <img src="images/inbox.png" width="600" />
 Select a request from your inbox
  
-Choose a request by pressing the REPLY button.
+Choose a request by pressing REPLY button.
 
 **Read the request carefully.**
 &nbsp;  
@@ -77,9 +77,11 @@ Choose a request by pressing the REPLY button.
 #### Database Search
 <img src="images/searchdatabase.png" width="600" />
 
-From the side menu, press the Search Database link to search for previous cases and solutions.
+  From the side menu, press the Search Database link to search for previous cases and solutions.
 
-Search by keyword, bus line code or name, subway station name or any other keyword.
+  Search by keyword, bus line code or name, subway station name or any other keyword.
+  
+    Soon, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring. The system will have access to real time fleet monitoring and Cloud database.
 &nbsp;  
 
 &nbsp;  
@@ -98,15 +100,15 @@ Search google maps for bus itineraries, directions, search for addresses, neighb
 
 #### Legislation 
   
-Click Legislation link to open files in pdf format with the current laws that rule the public transport system.
+Click Legislation link to open pdf files and find the current laws that rule the public transport system.
   
-You will find the operation manual, integration system regulation and Transport Consortium member cities.
+You will find operation manual, integration system regulation and Transport Consortium member cities municipality regulation.
 &nbsp;  
 
 &nbsp;  
 
 #### Discussion Forum and Chatroom
-Other options such as Discussion Forums and Chatroom are important tools to reach a quick solution.
+Other options such as Discussion Forums and Chatroom are important tools to investigate and negociate solutions.
 &nbsp;  
 
 &nbsp;  
@@ -117,7 +119,7 @@ Other options such as Discussion Forums and Chatroom are important tools to reac
 ---
 <img src="images/confirmreply.png" width="800" />
 
-Once you've established the facts and come to a conclusion, click the inbox link in the side menu and select the complaint by clicking the respond button. In future versions, the analyst can use a speech recognition tool to compose texts.
+Once you've established the facts and come to a conclusion, go to your inbox  and select the complaint by clicking the respond button. In future versions, the analyst can use a speech recognition tool to create reply messages.
 
 Use a confirmation screen to review the request and solution or instruct the citizen on how to achieve the objective&nbsp;  
 
