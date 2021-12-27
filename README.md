@@ -48,7 +48,7 @@ Explore the options:
   
 **Quick Guide** - Learn more about the process of creating solutions to people's requests.
   
-**Contact Us** - Send a message to the development team.
+**Contact Us** - Contact Developer.
 
 **Settings** - You can change your password and check other settings options.
   
