@@ -12,7 +12,24 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 &nbsp;  
 
 &nbsp;  
+## Design Choices
+  
+  ***Artificial Inteligence***
 
+The application must receive emails, access all sorts of maps and data, negociate solutions with the plannnig team and reply to citizen, using only one platform. 
+
+  I decided to create an response platform with Google Maps API, database searches, current laws consultation and discussion forum to help with the outcome. The system must be integrated with the public transport cloud monitoring system and Ombudsman Central database.
+  
+  It became clear that complaints and requests could feed an artificial intelligence capable of predicting routes and connections faster and more efficiently. So, an intelligence that could navigate through transport regulation,  Google maps API and  ombudsman's database to create solutions will be implemented in future versions.
+
+  Should I create a star page explaining the system proposal?
+I decided to make a more elaborate presentation page with a bootstrap template.
+
+Speech-to-text voice recognition tool. Python libraries was too slow. Paid options is not possible at the moment.
+  
+&nbsp;  
+
+&nbsp;  
 ## Inside User Interface Area - Logged In
 
 <img src="images/userarea.png" width="600"/>
