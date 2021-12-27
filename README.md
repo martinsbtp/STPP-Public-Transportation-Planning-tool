@@ -8,8 +8,7 @@ Browse through the homepage, register, log in and begin propose solutions. Click
 
 
 ## Inside User Interface Area - Logged In
-
-    <img src="images/readmeuserarea.jpeg" />
+<img src="images/readmeuserarea.jpeg" />
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
@@ -19,11 +18,11 @@ Browse through the homepage, register, log in and begin propose solutions. Click
 
 ### Sending a Complaint or request
 
-    The beta version has some examples of requesting public transport arrangements. For this trial version it will be possible to send complaints and requests to your inbox. Generally, the ombudsman sends the requests. In this test version, the center will not send emails, as this feature is only available in the official version for public analysts in the transport sector in the city of Recife.
+The beta version has some examples of requesting public transport arrangements. For this trial version it will be possible to send complaints and requests to your inbox. Generally, the ombudsman sends the requests. In this test version, the center will not send emails, as this feature is only available in the official version for public analysts in the transport sector in the city of Recife.
 
-    From the side menu, press SEND COMPLAINT to open the request/complaint form. The registered request will go to your inbox.
+From the side menu, press SEND COMPLAINT to open the request/complaint form. The registered request will go to your inbox.
 
-    <img src="images/readmesendcomplaint.jpeg"  />
+<img src="images/readmesendcomplaint.jpeg"  />
 
 ### Openning a Complaint or request
 
