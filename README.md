@@ -222,4 +222,3 @@ Dark Theme / Look and Feel Options.
 Full Login page with email confirmation.
 
 
-Thanks a lot.
