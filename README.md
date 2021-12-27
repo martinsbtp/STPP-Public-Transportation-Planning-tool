@@ -28,51 +28,49 @@ From the side menu, press SEND COMPLAINT to open the request/complaint form. The
 
 Select INBOX on the side menu and access requests and complaints
 
-    <img src="images/readmeinbox.jpeg"  />
+<img src="images/readmeinbox.jpeg"  />
 
 Choose an action request by pressing the REPLY button. Please read the request carefully.
 
-    <img src="images/readmereply.jpeg" width="800" />
+<img src="images/readmereply.jpeg" width="800" />
 
 ### Investigating Complaints and requests
 
-    From the side menu, press the Search Database link to search for similar requests. Search by keyword, bus line code or nomenclature, subway station name or any other keyword that finds a similar situation.
+From the side menu, press the Search Database link to search for similar requests. Search by keyword, bus line code or nomenclature, subway station name or any other keyword that finds a similar situation.
 
-    <img src="images/readmesearchdatabase.jpeg" width="800" />
+<img src="images/readmesearchdatabase.jpeg" width="800" />
 
-    Choose Maps and Directions from the side menu and search for bus itineraries on google maps, specifying origin and destination, search for addresses, neighborhoods, bus terminals or subway stations to understand the operation of the line reported in the claim.
+Choose Maps and Directions from the side menu and search for bus itineraries on google maps, specifying origin and destination, search for addresses, neighborhoods, bus terminals or subway stations to understand the operation of the line reported in the claim.
 
-    <img src="images/readmesearchmaps.jpeg" width="800" />
+<img src="images/readmesearchmaps.jpeg" width="800" />
 
-    On the side menu, press Legislation to open files in pdf format with the current laws that govern the public transport system in the metropolitan region of Recife. You will find the operation manual of the bus lines, the regulation of the integration system and the municipal laws of the cities that are part of the Metropolitan Transport Consortium.
+On the side menu, press Legislation to open files in pdf format with the current laws that govern the public transport system in the metropolitan region of Recife. You will find the operation manual of the bus lines, the regulation of the integration system and the municipal laws of the cities that are part of the Metropolitan Transport Consortium.
 
-    Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach agreement on changes to the transport system more quickly.
+Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach agreement on changes to the transport system more quickly.
 
 ### Finishing a Request/Complaint 
 
-    After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to dictate a response using a speech to text speech recognition tool.
+After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to dictate a response using a speech to text speech recognition tool.
 
 <img src="images/readmeconfirmreply.jpeg" width="800" />
 
-    A confirmation will be requested, giving the analyst the opportunity to review the question and confirm the sending of the answer with the solution found, or directing the citizen to make further referrals to the request.
-
+A confirmation will be requested, giving the analyst the opportunity to review the question and confirm the sending of the answer with the solution found, or directing the citizen to make further referrals to the request.
 
 ## Settings
 
-    The beta version only allows the user to change their own password. Other options such as telephone number, email and additional information about the position and institution linked to public transport are restricted to public officials in the transport sector in the region. Map and database option settings will be implemented in future releases.
+The beta version only allows the user to change their own password. Other options such as telephone number, email and additional information about the position and institution linked to public transport are restricted to public officials in the transport sector in the region. Map and database option settings will be implemented in future releases.
 
 <img src="images/readmesettings.jpeg" width="1000" />
 
 ### Changing Password
 
-    The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
-    The logged in user can change their password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password without the need to confirm email. In the official version, the government employee will enter the email and personal data registered at the time of hiring.
+The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
+The logged in user can change their password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password without the need to confirm email. In the official version, the government employee will enter the email and personal data registered at the time of hiring.
 
 ### Contact and Reporting a Bug
 
-    We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
-
-    The contact form uses gmail to send messages to the program developer. No name or email required to get in touch. Just send the subject and message.
+We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
+The contact form uses gmail to send messages to the program developer. No name or email required to get in touch. Just send the subject and message.
 
 <img src="images/readmecontact.jpeg" width="1000" />
 
