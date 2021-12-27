@@ -6,10 +6,12 @@ STPP is an Online Program designed to meet a specific need to respond to request
 
 Browse through the homepage, register, log in and begin proposing solutions. 
 
-<img src="images/quickguide2.jpeg"  />
+<!--<img src="images/quickguide2.jpeg"  />-->
 
-Click on the **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.
+Click on the **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.  
+&nbsp;  
 
+&nbsp;  
 
 ## Inside User Interface Area - Logged In
 
@@ -17,14 +19,14 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
-2 - Find out if requests or complaints are valid. Use maps, database search and legal consultation to explain the operation of the line mentioned in the request.
+2 - Check if request/complaint is valid. Use maps, database search, and legal consultation to explain the operation and create a solution.
 
 3 - if the requested itinerary does not exist, explain the reasons or propose a solution.
 
-4 -  If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
+4 -  Discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
+&nbsp;  
 
-
-
+&nbsp;  
 
 ---
 #### Sending a Complaint or request
