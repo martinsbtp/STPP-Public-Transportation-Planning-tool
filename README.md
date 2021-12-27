@@ -63,7 +63,8 @@ You will find the operation manual, the regulation of the integration system and
 #### Discussion Forum and Chatroom
 Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach an agreement on changes to the transport system more quickly.
 
-### Finishing a Request/Complaint 
+## Finishing a Request/Complaint 
+---
 
 <img src="images/confirmreply.png" width="800" />
 
@@ -78,12 +79,12 @@ A confirmation will be requested, giving the analyst the opportunity to review t
 The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
 
 
-### Changing Password
+#### Changing Password
 
 The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
 The logged in user can change password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password. No email is required in this test version. Usually, the government employee will enter email and personal data registered at the time of hiring.
 
-### Contact and Reporting a Bug
+#### Contact and Reporting a Bug
 
 We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
 The contact form uses gmail to send messages. No name or email required to get in touch. Just send subject and message.
