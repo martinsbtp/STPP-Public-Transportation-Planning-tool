@@ -3,7 +3,7 @@
 
 <img src="images/vltreadme.jpeg" width="1000" />
 
-STPP is a Web-based Application designed to meet a specific need to respond to requests and complaints from citizens/communities about public transport planning in Recife, Brazil.
+STPP is a Web-based Application designed to respond to requests and complaints from citizens/communities about public transport planning in Recife, Brazil.
 
 Browse through the website, register, log in and start proposing solutions.
 <!--<img src="images/quickguide2.jpeg"  />-->
