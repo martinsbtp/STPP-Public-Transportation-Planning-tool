@@ -76,15 +76,17 @@ The contact form uses gmail to send messages to the program developer. No name o
 
 ## Limitations
 
-Na pesquisa por mapas a API do Google Maps precisa ser implementada para aumentar as opções de busca.
+When searching for maps, the Google Maps API needs to be implemented to increase search options.
 
-O Google Maps não inclui nos resultados a integração ônibus e metrô na região. Apenas mostra as opções de linhas de ônibus.
+Google Maps does not include integration of buses and subways results. It only shows the options for bus lines.
 
-A busca no banco de dados precisa incluir os itinerários de todas as linhas disponívies no sistema. Para isso, é preciso integrar o STPP aos servidores da núvem do Governo do Estado de Pernmabuco ou solicitar às empresas operadoras de ônibus da região.
+The database search needs to include the itineraries of all lines available in the system. For this, it is necessary to integrate the STPP with the State of Pernmabuco's cloud servers.
 
-O aplicativo trabalha com dados sigilosos enviados para os servidores da central de ouvidoria. Por este motivo esses dados não estarão disponíveis para a investigação. Por outro lado, toda a legislação pode ser consultada na versão beta.
+The application works with sensitive data sent by the ombudsman's servers. For this reason, these data will not be available for investigation. On the other hand, all legislation can be consulted during beta tests.
 
-A caixa de entrada dos usuários terá alguns exemplos de solicitações para serem concluídas. O analista poderá enviar novas solicitações para a caixa de entrada selecionando Send Complaint/Request no menu lateral. Na próxima versão o analista receberá as novas mensagens através do API do Gmail.
+The users inbox loads some sample requests. The analyst can send new requests to the inbox by selecting Send Complaint/Request from the side menu. In the next version the analyst will receive the new messages through Gmail API.
+
+
 
 
 
