@@ -149,7 +149,7 @@ Use a confirmation screen to review the request and solution or instruct the cit
 
 #### Change Password
 
-The only requirement is that the password and username are 6 digits  at least 6 digits long. No email is required in this trial version. Usually,  public officials provide personal information at the time of hiring. 
+The only requirement is that the password and username are at least 6 digits long. No email is required in this trial version. Usually,  public officials provide personal information at the time of hiring. 
   
 Beta version only allows password change. Other options such as telephone, email and additional information about the body linked to public transport are restricted to public officials. More map and database search options will be implemented in future releases.
 &nbsp;  
