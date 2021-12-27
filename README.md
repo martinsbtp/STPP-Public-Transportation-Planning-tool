@@ -120,8 +120,7 @@ The beta version only allows password change. Other options such as telephone, e
 
 #### Change Password
 
-The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
-The logged in user can change password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password. No email is required in this test version. Usually, the government employee will enter email and personal data registered at the time of hiring.
+The only requirement is that the password and username are 6 digits  at least 6 digits long. No email is required in this trial version. Usually,  public officials provide personal information at the time of hiring
 &nbsp;  
 
 &nbsp;  
@@ -132,7 +131,7 @@ The logged in user can change password by confirming the username and entering a
 <img src="images/contact.png" width="300" />
 
 We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
-The contact form uses gmail to send messages. No name or email required to get in touch. Just send subject and message.
+The contact form uses gmail to send messages. No name or email is required to get in touch. Just send subject and message.
 
 &nbsp;  
 
@@ -141,14 +140,11 @@ The contact form uses gmail to send messages. No name or email required to get i
 ---
 ### Limitations
 ---
-When searching for maps, Google Maps API needs to be implemented to offer more search options.
+The Google Maps API needs to be implemented to provide more search options.
 
-Google Maps does not include bus/subway integration results. It only shows the options for bus lines.
+Google Maps does not include bus/subway integration results.
 
-The database search needs to include the itineraries of all lines available in the system. We need to integrate the STPP application with the State of Pernmabuco's cloud system.
+A database search must include all line routes available in the system. We need to integrate the STPP application with the State of Pernmabuco cloud system.
 
-The application works with sensitive data sent by the ombudsman's servers. For this reason, these data will not be available for investigation. On the other hand, all legislation can be consulted during beta tests.
-
-
-
+The application works with sensitive data sent by the ombudsman's servers. These data are not available for investigation. On the other hand, all legislation can be consulted during beta tests.
 
