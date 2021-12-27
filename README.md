@@ -98,7 +98,7 @@ Choose a request by pressing REPLY button.
 
   Search by keyword, bus line code or name, subway station name or any other keyword.
   
-    Soon, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring. The system will have access to real time fleet monitoring and Cloud database.
+  Soon, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring. The system will have access to real time fleet monitoring and Cloud database.
 &nbsp;  
 
 &nbsp;  
