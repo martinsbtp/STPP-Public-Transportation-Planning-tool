@@ -128,8 +128,9 @@ The logged in user can change password by confirming the username and entering a
 
 &nbsp;  
 
-
+---
 ### Contact and Reporting a Bug
+---
 <img src="images/contact.png" width="300" />
 
 We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
@@ -139,9 +140,9 @@ The contact form uses gmail to send messages. No name or email required to get i
 
 &nbsp;  
 
-
+---
 ### Limitations
-
+---
 When searching for maps, Google Maps API needs to be implemented to offer more search options.
 
 Google Maps does not include bus/subway integration results. It only shows the options for bus lines.
