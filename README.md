@@ -61,8 +61,8 @@ Ombudsman Central messages are available only for transport sector analysts.
 #### Openning a Complaint or Request
 ---
 <img src="images/inbox.png" width="600" />
-
-Select INBOX on the side menu and access requests and complaints
+Select a request from your inbox
+ 
 Choose a request by pressing the REPLY button.
 
 **Read the request carefully.**
@@ -90,21 +90,23 @@ Search by keyword, bus line code or name, subway station name or any other keywo
 
 Choose Maps and Directions from the side menu
 
-Search for bus itineraries on google maps, origin and destination directions, search for addresses, neighborhoods, bus terminals or subway stations to find a solution to the problem.
+Search google maps for bus itineraries, directions, search for addresses, neighborhoods, bus terminals or subway stations to find a solution to the problem.
 &nbsp;  
 
 &nbsp;  
 
 
 #### Legislation 
-On the side menu, press Legislation to open files in pdf format with the current laws that rule the public transport system.
-You will find the operation manual, the regulation of the integration system and the cities that are part of the Transport Consortium.
+  
+Click Legislation link to open files in pdf format with the current laws that rule the public transport system.
+  
+You will find the operation manual, integration system regulation and Transport Consortium member cities.
 &nbsp;  
 
 &nbsp;  
 
 #### Discussion Forum and Chatroom
-Other tools such as Discussion Forums and Chatroom are important to reach a quick solution.
+Other options such as Discussion Forums and Chatroom are important tools to reach a quick solution.
 &nbsp;  
 
 &nbsp;  
