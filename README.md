@@ -13,7 +13,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 
 ## Inside User Interface Area - Logged In
 
-<img src="images/userarea.png" />
+<img src="images/userarea.png" width="600"/>
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
@@ -29,7 +29,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 ---
 #### Sending a Complaint or request
 ---
-<img src="images/sendcomplaint.png"  />
+<img src="images/sendcomplaint.png" width="600" />
 
 From the side menu, press **Send Complaint** to open request/complaint form.
 
@@ -37,20 +37,20 @@ Some sample complaints and requests are available for testing.
 
 For this trial version it will be possible to send complaints and requests to your own inbox. 
 
-Ombudsman messages are available in official version for transport sector analysts.
-
+Ombudsman messages are available in official version for transport sector analysts.  
+&nbsp     
 
 
 ----
 #### Openning a Complaint or request
 ---
+<img src="images/inbox.png" width="600" />
 
 Select INBOX on the side menu and access requests and complaints
 Choose a request by pressing the REPLY button.
 
 **Read the request carefully.**
 
-<img src="images/inbox.png"  />
 
 ---
 ### Investigating Complaints and requests
