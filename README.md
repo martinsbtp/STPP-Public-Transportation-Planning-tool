@@ -7,15 +7,16 @@ STPP is an Online Program designed to meet a specific need to respond to request
 Browse through the homepage, register, log in and begin proposing solutions. 
 
 Click on the **Quick Guide** link at the top left of the screen and view the steps to complete an action request submitted by a public transport user.
+
 <img src="images/quickguide2.jpeg"  />
 
 ## Inside User Interface Area - Logged In
+
 <img src="images/userarea.png" />
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
 2 - Find out if requests or complaints are valid. Use maps, database search and legal consultation to explain the operation of the line mentioned in the request.
-
 
 3 - if the requested itinerary does not exist, explain the reasons or propose a solution.
 
@@ -36,9 +37,10 @@ Ombudsman messages are available in official version for transport sector analys
 
 Select INBOX on the side menu and access requests and complaints
 Choose a request by pressing the REPLY button.
-<img src="images/inbox.png"  />
 
-Read the request carefully.
+**Read the request carefully.**
+
+<img src="images/inbox.png"  />
 
 ### Investigating Complaints and requests
 #### Database Search
