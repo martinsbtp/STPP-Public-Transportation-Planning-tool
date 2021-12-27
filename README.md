@@ -1,12 +1,11 @@
-# STPP-Public-Transportation-Planning-tool
+# STPP Public Transportation Planning tool
 #### Video Demo:  <URL HERE>
 
 <img src="images/vltreadme.jpeg" width="1000" />
 
-STPP is an Online Program designed to meet a specific need to respond to requests and complaints from citizens/communities about public transport planning in Recife, Brazil.
+STPP is a Web-based Application designed to meet a specific need to respond to requests and complaints from citizens/communities about public transport planning in Recife, Brazil.
 
-Browse through the homepage, register, log in and begin proposing solutions. 
-
+Browse through the website, register, log in and start proposing solutions.
 <!--<img src="images/quickguide2.jpeg"  />-->
 
 Click on the **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.  
@@ -20,10 +19,9 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
-2 - Check if request/complaint is valid. Use maps, database search, and legal consultation to explain the operation and create a solution.
+2 - Check if request/complaint is valid. Use maps, database search and legal consultation to explain the operation and create a solution.
 
-3 - if the requested itinerary does not exist, explain the reasons or propose a solution.
-
+3 - If the requested itinerary does not exist, explain the reasons and suggest a alternative solution.
 4 -  Discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
 &nbsp;  
 
@@ -34,13 +32,13 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 ---
 <img src="images/sendcomplaint.png" width="600" />
 
-From the side menu, press Send Complaint to open request/complaint form.
+From the side menu, press Send Complaint link to open request/complaint form.
 
 Some sample complaints and requests are available for testing.
 
-For this trial version it will be possible to send complaints and requests to your own inbox. 
+For this trial version, it will be possible to send complaints and requests to your own inbox. 
 
-Ombudsman messages are available in official version for transport sector analysts.  
+The ombudsman's messages are available in an official version for transport sector analysts.
 &nbsp;  
 
 &nbsp;  
@@ -92,7 +90,7 @@ You will find the operation manual, the regulation of the integration system and
 &nbsp;  
 
 #### Discussion Forum and Chatroom
-Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach an agreement on changes to the transport system more quickly.
+Other tools such as Discussion Forums and Chatroom are important to reach a quick solution.
 &nbsp;  
 
 &nbsp;  
@@ -103,10 +101,9 @@ Other options such as Discussion Forums and Chatroom with analysts, bus companie
 ---
 <img src="images/confirmreply.png" width="800" />
 
-After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to use a speech recognition tool.
+Once you've established the facts and come to a conclusion, click the inbox link in the side menu and select the complaint by clicking the respond button. In future versions, the analyst can use a speech recognition tool to compose texts.
 
-Use the confirmation screen to review the request and solution, or directing the citizen to make further referrals.
-&nbsp;  
+Use a confirmation screen to review the request and solution or instruct the citizen on how to achieve the objective&nbsp;  
 
 &nbsp;  
 
@@ -115,7 +112,7 @@ Use the confirmation screen to review the request and solution, or directing the
 ---
 <img src="images/settings.png" width="600"/>
 
-The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
+The beta version only allows password change. Other options such as telephone, email and additional information about the body linked to public transport are restricted to public officials. More map and database search options will be implemented in future releases.
 &nbsp;  
 
 &nbsp;  
