@@ -19,23 +19,25 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
   
 Explore the options:
 
-Inbox - List of requests complaints and messages sent from a Ombudsman Central.
+**Inbox** - List of requests complaints and messages sent from a Ombudsman Central.
 
-Send Complaint - This version allows you to send your own complaint or request about public transportation in your city.
+**Send Complaint** - This version allows you to send your own complaint or request about public transportation in your city.
   
-Maps and Direction - Search for bus routes and places aroud the world, and bus terminals in Recife.
+**Maps and Direction** - Search for bus routes and places aroud the world, and bus terminals in Recife.
   
-Search Database - In future versions, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring.
+**Search Database** - In future versions, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring.
 
-Legislation - Consult Recife Metropolitan Region Transportation System's current laws.
+**Legislation** - Consult Recife Metropolitan Region Transportation System's current laws.
   
-Quick Guide - Learn more about the process of creating solutions to people's requests.
+**Quick Guide** - Learn more about the process of creating solutions to people's requests.
   
-Contact Us - Send a message to the development team.
+**Contact Us** - Send a message to the development team.
 
-Settings - You can change your password and check other settings options.
+**Settings** - You can change your password and check other settings options.
   
-Content - You can change user main page content.
+**Content** - You can change user main page content.
+  
+**Logou** - Leave user area
 
 &nbsp;  
 
