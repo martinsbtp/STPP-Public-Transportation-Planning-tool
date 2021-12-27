@@ -33,7 +33,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 ---
 <img src="images/sendcomplaint.png" width="600" />
 
-From the side menu, press **Send Complaint** to open request/complaint form.
+From the side menu, press Send Complaint to open request/complaint form.
 
 Some sample complaints and requests are available for testing.
 
@@ -62,8 +62,9 @@ Choose a request by pressing the REPLY button.
 ---
 
 #### Database Search
-From the side menu, press the **Search Database** link to search for previous cases and solutions.
 <img src="images/searchdatabase.png" width="600" />
+
+From the side menu, press the Search Database link to search for previous cases and solutions.
 
 Search by keyword, bus line code or name, subway station name or any other keyword.
 &nbsp;  
@@ -73,7 +74,8 @@ Search by keyword, bus line code or name, subway station name or any other keywo
 
 #### Map Search
 <img src="images/searchmap.png" width="600" />
-Choose **Maps and Directions** from the side menu
+
+Choose Maps and Directions from the side menu
 
 Search for bus itineraries on google maps, origin and destination directions, search for addresses, neighborhoods, bus terminals or subway stations to find a solution to the problem.
 &nbsp;  
@@ -84,8 +86,11 @@ Search for bus itineraries on google maps, origin and destination directions, se
 #### Legislation 
 On the side menu, press Legislation to open files in pdf format with the current laws that rule the public transport system.
 You will find the operation manual, the regulation of the integration system and the cities that are part of the Transport Consortium.
+&nbsp;  
 
-emsp#### Discussion Forum and Chatroom
+&nbsp;  
+
+#### Discussion Forum and Chatroom
 Other options such as Discussion Forums and Chatroom with analysts, bus companies and the general population are needed to reach an agreement on changes to the transport system more quickly.
 &nbsp;  
 
@@ -93,37 +98,49 @@ Other options such as Discussion Forums and Chatroom with analysts, bus companie
 
 
 ---
-### Reply to Request/Complaint 
+### Reply to Requests/Complaints
 ---
 <img src="images/confirmreply.png" width="800" />
 
-After investigating the facts and reaching a conclusion, click on the **inbox** link in the side menu and select the complaint by pressing the **reply button**. In future versions, the analyst will be able to use a speech recognition tool.
+After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to use a speech recognition tool.
 
-A confirmation will be requested, giving the analyst the opportunity to review the question and confirm the solution found, or directing the citizen to make further referrals to the request.
+Use the confirmation screen to review the request and solution, or directing the citizen to make further referrals.
+&nbsp;  
+
+&nbsp;  
 
 ---
 ### Settings
 ---
-<img src="images/settings.png" width="800"/>
+<img src="images/settings.png" width="600"/>
 
 The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
+&nbsp;  
+
+&nbsp;  
 
 
 #### Changing Password
 
 The only requirement is that the password be exactly 6 digits long and the username be at least 6 digits long.
 The logged in user can change password by confirming the username and entering a new six-digit password. The system confirms that the user is logged in and changes the password. No email is required in this test version. Usually, the government employee will enter email and personal data registered at the time of hiring.
+&nbsp;  
+
+&nbsp;  
 
 
-## Contact and Reporting a Bug
+### Contact and Reporting a Bug
+<img src="images/contact.png" width="300" />
 
 We need to evaluate the application performance. Feel free to submit a bug. We appreciate the effort.
 The contact form uses gmail to send messages. No name or email required to get in touch. Just send subject and message.
 
-<img src="images/contact.png" width="300" />
+&nbsp;  
+
+&nbsp;  
 
 
-## Limitations
+### Limitations
 
 When searching for maps, Google Maps API needs to be implemented to offer more search options.
 
