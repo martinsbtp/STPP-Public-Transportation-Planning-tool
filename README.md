@@ -14,7 +14,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
-2 - Find out if requests about bus lines, metro or about the integration between the two modes are valid. Use maps, database search and legislation consultation to understand the requirement and conditions in the operation of the line in question.
+2 - Find out if requests or complaints are valid. Use maps, database search and legislation consultation to understand the requirements and conditions in the transport system operation.
 
 3 - If the case calls for a faster and more economical way of getting around, look for the best route within the bus/metro integration system and send the proposal. If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
 
