@@ -47,14 +47,11 @@ Explore the options:
 #### Sending a Complaint or Request
 ---
 <img src="images/sendcomplaint.png" width="600" />
+###From the side menu, press Send Complaint link to open request/complaint form.
 
-From the side menu, press Send Complaint link to open request/complaint form.
+###For this trial version, it will be possible to send complaints and requests to your own inbox.
 
-Some sample complaints and requests are available for testing.
-
-For this trial version, it will be possible to send complaints and requests to your own inbox. 
-
-The ombudsman's messages are available in an official version for transport sector analysts.
+###Ombudsman Central messages are available only for transport sector analysts. 
 &nbsp;  
 
 &nbsp;  
