@@ -70,8 +70,8 @@ Choose a request by pressing REPLY button.
 
 &nbsp;  
 
-
-### Investigate Complaints and requests
+---
+#### Investigate Complaints and requests
 ---
 
 #### Database Search
@@ -130,15 +130,16 @@ Use a confirmation screen to review the request and solution or instruct the cit
 ---
 <img src="images/settings.png" width="600"/>
 
-The beta version only allows password change. Other options such as telephone, email and additional information about the body linked to public transport are restricted to public officials. More map and database search options will be implemented in future releases.
-&nbsp;  
-
-&nbsp;  
-
-
 #### Change Password
 
-The only requirement is that the password and username are 6 digits  at least 6 digits long. No email is required in this trial version. Usually,  public officials provide personal information at the time of hiring
+The only requirement is that the password and username are 6 digits  at least 6 digits long. No email is required in this trial version. Usually,  public officials provide personal information at the time of hiring. 
+  
+Beta version only allows password change. Other options such as telephone, email and additional information about the body linked to public transport are restricted to public officials. More map and database search options will be implemented in future releases.
+&nbsp;  
+
+&nbsp;  
+
+
 &nbsp;  
 
 &nbsp;  
@@ -161,8 +162,11 @@ The contact form uses gmail to send messages. No name or email is required to ge
 The Google Maps API needs to be implemented to provide more search options.
 
 Google Maps does not include bus/subway integration results.
+  
 
-A database search must include all line routes available in the system. We need to integrate the STPP application with the State of Pernmabuco cloud system.
+In future versions database search must include all line routes available in the system. We need to integrate the STPP application with the State of Pernmabuco's cloud system. 
 
 The application works with sensitive data sent by the ombudsman's servers. These data are not available for investigation. On the other hand, all legislation can be consulted during beta tests.
+  
+Content Management is avalilabe for changing texts in your user main main page only. In future versions, a complete content management will be implemented as well as a news feed.
 
