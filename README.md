@@ -23,7 +23,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 4 -  If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
 
 ### Sending a Complaint or request
---
+---
 From the side menu, press **Send Complaint** to open request/complaint form.
 <img src="images/sendcomplaint.png"  />
 
@@ -34,7 +34,7 @@ For this trial version it will be possible to send complaints and requests to yo
 Ombudsman messages are available in official version for transport sector analysts.
 
 ### Openning a Complaint or request
---
+---
 Select INBOX on the side menu and access requests and complaints
 Choose a request by pressing the REPLY button.
 
@@ -43,7 +43,7 @@ Choose a request by pressing the REPLY button.
 <img src="images/inbox.png"  />
 
 ### Investigating Complaints and requests
---
+---
 #### Database Search
 From the side menu, press the **Search Database** link to search for previous cases and solutions.
 <img src="images/searchdatabase.png" width="800" />
@@ -72,6 +72,7 @@ After investigating the facts and reaching a conclusion, click on the **inbox** 
 A confirmation will be requested, giving the analyst the opportunity to review the question and confirm the solution found, or directing the citizen to make further referrals to the request.
 
 ## Settings
+---
 <img src="images/settings.png" />
 
 The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
@@ -91,6 +92,7 @@ The contact form uses gmail to send messages. No name or email required to get i
 
 
 ## Limitations
+---
 
 When searching for maps, Google Maps API needs to be implemented to offer more search options.
 
