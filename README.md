@@ -136,7 +136,7 @@ Other options such as Discussion Forums and Chatroom are important tools to inve
 ---
 <img src="images/confirmreply.png" width="800" />
 
-Once you've established the facts and come to a conclusion, go to your inbox  and select the complaint by clicking the respond button. In future versions, the analyst can use a speech recognition tool to create reply messages.
+Once you've established the facts and come to a conclusion, go to your inbox  and select the complaint by clicking the reply button. In future versions, analysts will use a speech recognition tool to create reply messages.
 
 Use a confirmation screen to review the request and solution or instruct the citizen on how to achieve the objective&nbsp;  
 
