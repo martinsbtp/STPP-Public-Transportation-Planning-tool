@@ -4,4 +4,4 @@
 
 Browse through the homepage, register, log in and begin propose solutions. Click on the Quick Guide link at the top left of the screen and view the steps to complete an action request submitted by a public transport user.
 
-<img src="images/quickguide.jpeg" width="300" />
+<img src="images/quickguide.jpeg" width="200" />
