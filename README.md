@@ -186,4 +186,40 @@ In future versions database search must include all line routes available in the
 The application works with sensitive data sent by the ombudsman's servers. These data are not available for investigation. On the other hand, all legislation can be consulted during beta tests.
   
 Content Management is avalilabe for changing texts in your user main main page only. In future versions, a complete content management will be implemented as well as a news feed.
+  
+  
+  
+&nbsp;  
 
+&nbsp;  
+
+---
+### What's Next
+---
+  
+A Public Transport Shared Ride AI Engine
+
+VR and AR to check infrastructure.
+
+Geo Map A.I. Solution.
+
+Discussion Forum.
+
+Chatroom.
+
+State Department Online System Integration.
+
+Speech Recognition.
+
+Help and Tutorials.
+
+Language Options. Spell and Grammar Checker.
+
+Jason Search Field.
+
+Dark Theme / Look and Feel Options.
+
+Full Login page with email confirmation.
+
+
+Thanks a lot.
