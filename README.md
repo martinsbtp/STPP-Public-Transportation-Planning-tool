@@ -62,7 +62,7 @@ Choose a request by pressing the REPLY button.
 ---
 
 #### Database Search
-<img src="images/searchdatabase.png" width="600" />
+<img src="images/searchdatabases.png" width="600" />
 
 From the side menu, press the Search Database link to search for previous cases and solutions.
 
@@ -73,7 +73,7 @@ Search by keyword, bus line code or name, subway station name or any other keywo
 
 
 #### Map Search
-<img src="images/searchmap.png" width="600" />
+<img src="images/searchmaps.png" width="600" />
 
 Choose Maps and Directions from the side menu
 
@@ -100,7 +100,7 @@ Other options such as Discussion Forums and Chatroom with analysts, bus companie
 ---
 ### Reply to Requests/Complaints
 ---
-<img src="images/confirmreply.png" width="800" />
+<img src="images/confirmreplys.png" width="800" />
 
 After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to use a speech recognition tool.
 
@@ -112,7 +112,7 @@ Use the confirmation screen to review the request and solution, or directing the
 ---
 ### Settings
 ---
-<img src="images/settings.png" width="600"/>
+<img src="images/settingss.png" width="600"/>
 
 The beta version only allows users to change password. Other options such as telephone number, email and additional information about the agency linked to public transport are restricted to public officials. Map and database option settings will be implemented in future releases.
 &nbsp;  
