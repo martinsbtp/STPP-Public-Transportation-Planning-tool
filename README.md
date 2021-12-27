@@ -9,7 +9,7 @@ Browse through the homepage, register, log in and begin propose solutions. Click
 
 ## Inside User Interface Area - Logged In
 
-    <img src="/images/readmeuserarea.jpeg" />
+    <img src="images/readmeuserarea.jpeg" />
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
@@ -23,27 +23,27 @@ Browse through the homepage, register, log in and begin propose solutions. Click
 
     From the side menu, press SEND COMPLAINT to open the request/complaint form. The registered request will go to your inbox.
 
-    <img src="/images/readmesendcomplaint.jpeg"  />
+    <img src="images/readmesendcomplaint.jpeg"  />
 
 ### Openning a Complaint or request
 
 Select INBOX on the side menu and access requests and complaints
 
-    <img src="/images/readmeinbox.jpeg"  />
+    <img src="images/readmeinbox.jpeg"  />
 
 Choose an action request by pressing the REPLY button. Please read the request carefully.
 
-    <img src="/images/readmereply.jpeg" width="800" />
+    <img src="images/readmereply.jpeg" width="800" />
 
 ### Investigating Complaints and requests
 
     From the side menu, press the Search Database link to search for similar requests. Search by keyword, bus line code or nomenclature, subway station name or any other keyword that finds a similar situation.
 
-    <img src="/images/readmesearchdatabase.jpeg" width="800" />
+    <img src="images/readmesearchdatabase.jpeg" width="800" />
 
     Choose Maps and Directions from the side menu and search for bus itineraries on google maps, specifying origin and destination, search for addresses, neighborhoods, bus terminals or subway stations to understand the operation of the line reported in the claim.
 
-    <img src="/images/readmesearchmaps.jpeg" width="800" />
+    <img src="images/readmesearchmaps.jpeg" width="800" />
 
     On the side menu, press Legislation to open files in pdf format with the current laws that govern the public transport system in the metropolitan region of Recife. You will find the operation manual of the bus lines, the regulation of the integration system and the municipal laws of the cities that are part of the Metropolitan Transport Consortium.
 
@@ -53,7 +53,7 @@ Choose an action request by pressing the REPLY button. Please read the request c
 
     After investigating the facts and reaching a conclusion, click on the inbox link in the side menu and select the complaint by pressing the reply button. In future versions, the analyst will be able to dictate a response using a speech to text speech recognition tool.
 
-<img src="/images/readmeconfirmreply.jpeg" width="800" />
+<img src="images/readmeconfirmreply.jpeg" width="800" />
 
     A confirmation will be requested, giving the analyst the opportunity to review the question and confirm the sending of the answer with the solution found, or directing the citizen to make further referrals to the request.
 
@@ -62,7 +62,7 @@ Choose an action request by pressing the REPLY button. Please read the request c
 
     The beta version only allows the user to change their own password. Other options such as telephone number, email and additional information about the position and institution linked to public transport are restricted to public officials in the transport sector in the region. Map and database option settings will be implemented in future releases.
 
-<img src="/images/readmesettings.jpeg" width="1000" />
+<img src="images/readmesettings.jpeg" width="1000" />
 
 ### Changing Password
 
@@ -75,7 +75,7 @@ Choose an action request by pressing the REPLY button. Please read the request c
 
     The contact form uses gmail to send messages to the program developer. No name or email required to get in touch. Just send the subject and message.
 
-<img src="/images/readmecontact.jpeg" width="1000" />
+<img src="images/readmecontact.jpeg" width="1000" />
 
 ## Limitations
 
