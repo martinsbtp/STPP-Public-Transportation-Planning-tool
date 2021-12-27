@@ -8,7 +8,7 @@ STPP is a Web-based Application designed to respond to requests and complaints f
 Browse through the website, register, log in and start proposing solutions.
 <!--<img src="images/quickguide2.jpeg"  />-->
 
-Click on the **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.  
+Click **Quick Guide** link at the top left of the screen and view the steps to solve a request submitted by a transport user.  
 &nbsp;  
 
 &nbsp;  
