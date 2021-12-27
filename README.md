@@ -10,7 +10,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 <img src="images/quickguide2.jpeg"  />
 
 ## Inside User Interface Area - Logged In
-<img src="images/readmeuserarea.jpeg" />
+<img src="images/userarea.png" />
 
 1 - Receive the request by email from an ombudsman center in your inbox,
 
