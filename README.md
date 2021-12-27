@@ -62,7 +62,7 @@ Choose a request by pressing the REPLY button.
 ---
 
 #### Database Search
-<img src="images/searchdatabases.png" width="600" />
+<img src="images/searchdatabase.png" width="600" />
 
 From the side menu, press the Search Database link to search for previous cases and solutions.
 
@@ -73,7 +73,7 @@ Search by keyword, bus line code or name, subway station name or any other keywo
 
 
 #### Map Search
-<img src="images/searchmaps.png" width="600" />
+<img src="images/searchmap.png" width="600" />
 
 Choose Maps and Directions from the side menu
 
