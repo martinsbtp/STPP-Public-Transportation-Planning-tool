@@ -23,7 +23,7 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 4 -  If necessary, discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
 
 ### Sending a Complaint or request
-
+--
 From the side menu, press **Send Complaint** to open request/complaint form.
 <img src="images/sendcomplaint.png"  />
 
@@ -34,7 +34,7 @@ For this trial version it will be possible to send complaints and requests to yo
 Ombudsman messages are available in official version for transport sector analysts.
 
 ### Openning a Complaint or request
-
+--
 Select INBOX on the side menu and access requests and complaints
 Choose a request by pressing the REPLY button.
 
@@ -43,6 +43,7 @@ Choose a request by pressing the REPLY button.
 <img src="images/inbox.png"  />
 
 ### Investigating Complaints and requests
+--
 #### Database Search
 From the side menu, press the **Search Database** link to search for previous cases and solutions.
 <img src="images/searchdatabase.png" width="800" />
