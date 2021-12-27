@@ -16,13 +16,20 @@ Click on the **Quick Guide** link at the top left of the screen and view the ste
 ## Inside User Interface Area - Logged In
 
 <img src="images/userarea.png" width="600"/>
+  
+Explore the options:
 
-1 - Receive the request by email from an ombudsman center in your inbox,
+Inbox - List of requests complaints and messages sent from a Ombudsman Central.
+Maps and Direction - Search for bus routes and places aroud the world, and bus terminals in Recife.
+Search Database - In future versions, it will be integrated to the State Government Cloud System and GPS Fleet Monitoring.
 
-2 - Check if request/complaint is valid. Use maps, database search and legal consultation to explain the operation and create a solution.
+Legislation - Consult Recife Metropolitan Region Transportation System's Legislation.
+Quick Guide - Learn more about the process of creating solutions to people's requests.
+Contact Us - Send a message to the development team.
 
-3 - If the requested itinerary does not exist, explain the reasons and suggest a alternative solution.
-4 -  Discuss the situation with the planning team, find representatives of the bus operators, develop a solution and respond to the request.
+Settings - You can change your password and check other settings options.
+Content - You can change user main page content.
+
 &nbsp;  
 
 &nbsp;  
