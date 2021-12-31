@@ -1,5 +1,5 @@
 # STPP Public Transportation Planning tool
-#### Video Demo: https://youtu.be/Dw_LwJXNPeo 
+#### Video Demo: <https://youtu.be/Dw_LwJXNPeo >
 
 <img src="images/vltreadme.jpeg" width="1000" />
 
